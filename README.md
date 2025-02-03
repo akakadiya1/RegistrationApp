@@ -26,7 +26,8 @@ Ensure you have the following installed on your system:
 ### Steps to Open and Run
 
 1. **Clone the Repository**  
-   - Open a terminal or command prompt and run:  
+
+ - Open a terminal or command prompt and run:  
    ```bash
    git clone https://github.com/yourusername/RegistrationApp.git
    cd RegistrationApp
